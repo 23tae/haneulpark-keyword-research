@@ -42,16 +42,16 @@
 - 워드클라우드
   ![wordcloud](/assets/wordcloud_google_images.png)
 
-### keyword_count_google_maps
-
-구글 지도 방문자 리뷰를 바탕으로 특정 검색어의 빈도를 막대그래프로 나타낸다.
-
-- 막대그래프
-  ![barchart](/assets/haneulpark_night_keyword_count.png)
-
 ### wordcloud_google_maps
 
 구글 지도 방문자 리뷰를 바탕으로 워드클라우드를 생성한다.
 
 - 워드클라우드
   ![wordcloud](/assets/haneul_googlemaps_wordcloud.png)
+
+### keyword_count_google_maps
+
+구글 지도 방문자 리뷰를 바탕으로 특정 단어의 빈도를 막대그래프로 나타낸다.
+
+- 막대그래프
+  ![barchart](/assets/haneulpark_night_keyword_count.png)
