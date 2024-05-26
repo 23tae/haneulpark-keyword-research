@@ -38,7 +38,7 @@
 구글 이미지로 생성한 csv 데이터를 바탕으로 막대그래프와 워드클라우드를 생성한다.
 
 - 막대그래프
-  ![barchart](/assets/barchart_instagram.png)
+  ![barchart](/assets/barchart_google_images.png)
 - 워드클라우드
   ![wordcloud](/assets/wordcloud_google_images.png)
 
